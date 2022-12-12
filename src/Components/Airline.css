@@ -1,0 +1,29 @@
+.reviews-column {
+    flex: 1;
+    padding: 2rem 1rem;
+ 
+}
+.reviews-form-column {
+    flex: 1;
+    height: 100vh;
+    padding: 5rem 2rem;
+    background-color: black;
+
+}
+
+.reviews-stats {
+    margin-top: 2rem;
+}
+
+.reviews-stats-title {
+   font-size: 10px;
+}
+
+.reviews-stats-stars {
+    font-size: 16px;
+    padding-top: 10px;
+}
+
+.reviews-stats-info {
+    font-size: 12px;
+}
