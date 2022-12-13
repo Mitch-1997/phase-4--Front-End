@@ -3,7 +3,7 @@ import "./ReviewForm.css";
 import { useParams } from "react-router-dom";
 
 function ReviewForm() {
-  //  const review = airline.reviews
+  const [reviewData, setReviewData] = useState([])
   let { id } = useParams();
   const [formData, setformData] = useState({
     title: "",
@@ -47,6 +47,17 @@ function ReviewForm() {
       method: "DELETE",
     }).then(() => console.log("Delete successful"));
   }, []);
+        function handleDeleteReview(reviewToDelete) {
+          const updatedReviews = reviewData.filter((review) => {
+            if (review.id !== reviewToDelete.id) {
+              return review;
+            } else {
+              return null;
+            }
+          });
+          setReviewData(updatedReviews);
+        }
+  
 
   return (
     <>

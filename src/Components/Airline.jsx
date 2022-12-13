@@ -53,6 +53,7 @@ function Airline() {
           <img src={airline?.image_url || ""} alt={airline?.name || ""} />
           <div>{airline.name}</div>
         </AirlineHeader>
+        <div> <button>delete</button></div>
         <div className="reviews-stats">
           <div className="reviews-stats-title"> </div>
           <div className="reviews-stats-stars"></div>
@@ -61,15 +62,12 @@ function Airline() {
         <div className="reviews-comments">
           <div className="reviews-comments-header">
             <div className="reviews-comments-profile"></div>
-            <div className="reviews-comments-stars">
-              <span></span>
-              <span></span>
-            </div>
             <div className="reviews-comments-name"></div>
           </div>
           <div className="reviews-comments-body">
             <div className="reviews-comments-title">{kq}</div>
-            <div className="reviews-comments-info"> </div>
+            <div className="reviews-comments-info">
+            </div>
           </div>
         </div>
       </div>
