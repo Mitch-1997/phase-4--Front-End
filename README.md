@@ -27,8 +27,6 @@
 ## Languages and Frameworks
 
 - React
-- Ruby 
-- Ruby on Rails
 - JavaScript
 
 ## Known Bugs
