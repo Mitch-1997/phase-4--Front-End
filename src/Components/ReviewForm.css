@@ -43,7 +43,7 @@
   .share{
     font-size:20px;
   padding: 15px 0;
-  /* font-weight: bold; */
+  font-weight: bold; 
   color: #fff;
   }
   .submit{
