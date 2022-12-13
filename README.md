@@ -2,9 +2,9 @@
 
 ### (School Project)
 
-+ [Description](#overall-project-description).
-+ [Setup instructions](#setup-instructions).
-+ [Technology Used](#languages-and-frameworks).
++ [Description](#overall-project-description)
++ [Setup instructions](#setup-instructions)
++ [Technology Used](#languages-and-frameworks)
 + [Licence](#Licence)
 + [Authors Info](#Author)
 
