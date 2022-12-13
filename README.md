@@ -19,7 +19,7 @@
 
 ### BDD (Behavior Driven Development)
 
-##### User logs in to page
+##### User signs in to page
 ##### User reviews the airline
 ##### Reviews is added to the database 
 
