@@ -41,9 +41,9 @@ Contributions to the project are welcome. Fork this repo to contribute.
 
 ## Setup Instructions
 
-HTTPS: `https://github.com/Mitch-1997/phase-4-project-flights-review`
+HTTPS: `https://github.com/Mitch-1997/phase-4--Front-End`
 
-SSH: `git@github.com:Mitch-1997/phase-4-project-flights-review.git`
+SSH: `git@github.com:Mitch-1997/phase-4--Front-End.git`
 
 ## Back end:
 
