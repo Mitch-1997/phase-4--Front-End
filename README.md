@@ -33,7 +33,7 @@
 
 ## Known Bugs
 
-- Everything is working as expected. Open to project improvement suggestions.
+- Everything is working as expected. Open to project improvement suggestions
 
 ## Contributing
 
