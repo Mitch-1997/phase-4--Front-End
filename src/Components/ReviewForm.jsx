@@ -55,7 +55,7 @@ function ReviewForm() {
               return null;
             }
           });
-          setReviewData(updatedReviews);
+          setReviewData(updatedReviews)
         }
   
 
